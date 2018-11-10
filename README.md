@@ -22,14 +22,15 @@ Techies for Social Good
       
 ### (d) Installation and execution details:-  
       1. Run Remix IDE on the browser.  
-      2. Write the smart contract in solidity.  
-      3. Compile and run the smart contract using JavaScript VM environment provided by the IDE.  
-      4. Set gas limit and gas price for the contract and deploy the contract with X amounts of ether attached.  
+      2. Write the smart contract in solidity with the file extension as .sol  
+      3. Compile and run the smart contract, Midterm.sol, using JavaScript VM environment provided by the IDE.  
+      4. The smart contract can be tested by writing unit test cases in the file test.sol  
+      5. Set gas limit and gas price for the contract and deploy the contract with X amounts of ether attached.  
   
 ### (f) Member Contribution:-   
-      1. Aaradhya Mehta:-  
-      2. Ankit Luthra:-  
-      3. Apurva Nanajkar:-  
+      1. Aaradhya Mehta:- Requirement gathering and research about PoP protocol, Documentation
+      2. Ankit Luthra:- Coding the smart contract and test cases
+      3. Apurva Nanajkar:- Coding the smart contract and test cases
         
 ### (e) References:-  
       1. https://solidity.readthedocs.io/en/v0.4.24/introduction-to-smart-contracts.html  
